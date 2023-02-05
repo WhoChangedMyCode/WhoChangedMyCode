@@ -16,14 +16,6 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
